@@ -26,6 +26,25 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+**Translations:**
+
+* [English](README.md) (Original)
+* [العربية (Arabic)](README_ar.md)
+* [Deutsch (German)](README_de.md)
+* [Español (Spanish)](README_es.md)
+* [Français (French)](README_fr.md)
+* [हिन्दी (Hindi)](README_hi.md)
+* [Bahasa Indonesia (Indonesian)](README_id.md)
+* [Italiano (Italian)](README_it.md)
+* [日本語 (Japanese)](README_ja.md)
+* [한국어 (Korean)](README_ko.md)
+* [Bahasa Melayu (Malay)](README_ms.md)
+* [Português (Portuguese)](README_pt.md)
+* [Русский (Russian)](README_ru.md)
+* [ภาษาไทย (Thai)](README_th.md)
+* [Tiếng Việt (Vietnamese)](README_vi.md)
+* [中文 (Chinese)](README_zh.md)
+
 # [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code) 🤝 [Awesome Claude Code Agents](https://github.com/hesreallyhim/awesome-claude-code-agents)
 
 <!--lint enable remark-lint:awesome-badge-->
